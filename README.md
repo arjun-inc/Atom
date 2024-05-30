@@ -1,3 +1,3 @@
 # Atom
 This is a test repo
-Author - Arjun
+Author - Arjun (change author)
